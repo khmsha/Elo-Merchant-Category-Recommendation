@@ -3,12 +3,12 @@
 
 Table of Contents
 =================
-  * [Problem Statement](##ProblemStatement)
+  * [Problem Statement](##Problem-Statement)
   * [Data](##Data)
-  * [Data Wrangling](##DataWrangling)
+  * [Data Wrangling](##Data-Wrangling)
   * [EDA](##EDA)
-  * [Featuring Engineering](##FeaturingEngineering)
-  * [Machine learning Model](##MachinelearningModel)
+  * [Featuring Engineering](##Featuring-Engineering)
+  * [Machine learning Model](##Machine-learning-Model)
   * [Conclusion](##conclusion)
 
 
