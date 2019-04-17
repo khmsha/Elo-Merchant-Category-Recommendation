@@ -13,10 +13,10 @@ Table of Contents
 
 
 ## Problem Statement
-    Build machine learning model to predict loyalty score for card id’s in test dataset. Training dataset contains loyalty score for each card id, historical transactions and new merchant transactions contain information about each card's transactions, and merchants.csv contains aggregate information for each merchant_id
+Build machine learning model to predict loyalty score for card id’s in test dataset. Training dataset contains loyalty score for each card id, historical transactions and new merchant transactions contain information about each card's transactions, and merchants.csv contains aggregate information for each merchant_id
 
 ## Data 
-    Data is obtained from [Kaggle](https://www.kaggle.com/c/elo-merchant-category-recommendation)
+Data is obtained from [Kaggle](https://www.kaggle.com/c/elo-merchant-category-recommendation)
 
 ## Data Wrangling
 Following data cleaning methods are used **merchant.csv**
