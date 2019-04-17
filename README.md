@@ -19,7 +19,7 @@ Table of Contents
     Data is obtained from [Kaggle](https://www.kaggle.com/c/elo-merchant-category-recommendation)
 
 ## Data Wrangling
-Following data cleaning methods are used merchant.csv
+Following data cleaning methods are used **merchant.csv**
 * Missing Data 
   - Columns having inf are replaced first with NaN and then are imputed based on datatype of column as described below.
   - Columns with object datatype having NaN values are imputed with "other“
@@ -34,9 +34,9 @@ Following data cleaning methods are used merchant.csv
   - avg_sales_lag12 
   - avg_purchases_lag12
 
-For datasets historical_transactions.csv and new_merchant_transactions.csv – 
+For datasets **historical_transactions.csv** and **new_merchant_transactions.csv** – 
 * Missing values (NaN)are imputed with “other” for columns with object datatype, median for columns with int and float datatype, and new category is added for columns with categorical datatype.
-* Outliers  are imputed with 3-Sigma rule for columns “purchase_amount” and “installments”
+* Outliers  are imputed with **3-Sigma rule** for columns “purchase_amount” and “installments”
 * Datetime features are created for “purchase_date”
   - Purchase year
   - Purchase month
