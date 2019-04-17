@@ -20,11 +20,11 @@ Table of Contents
 
 ## Data Wrangling
 Following data cleaning methods are used merchant.csv
-    * Missing Data 
-        - Columns having inf are replaced first with NaN and then are imputed based on datatype of column as described below.
-        - Columns with object datatype having NaN values are imputed with "other“
-        - Columns with int and float datatype having NaN values are imputed with median
-    * Outliers - Outlier identification is applied for following columns. Other columns are either categorical or ID’s. 3-Sigma Rule is applied to impute outliers.
+* Missing Data 
+ - Columns having inf are replaced first with NaN and then are imputed based on datatype of column as described below.
+ - Columns with object datatype having NaN values are imputed with "other“
+ - Columns with int and float datatype having NaN values are imputed with median
+* Outliers - Outlier identification is applied for following columns. Other columns are either categorical or ID’s. 3-Sigma Rule is applied to impute outliers.
        - numerical_1
        - numerical_2
        - avg_sales_lag3
