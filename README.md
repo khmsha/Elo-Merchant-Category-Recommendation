@@ -3,32 +3,32 @@
 
 Table of Contents
 =================
-  * [Problem Statement](##Problem Statement)
+  * [Problem Statement](##ProblemStatement)
   * [Data](##Data)
-  * [Data Wrangling](##Data Wrangling)
+  * [Data Wrangling](##DataWrangling)
   * [EDA](##EDA)
-  * [Featuring Engineering](##Featuring Engineering)
-  * [Machine learning Model](##Machine learning Model)
+  * [Featuring Engineering](##FeaturingEngineering)
+  * [Machine learning Model](##MachinelearningModel)
   * [Conclusion](##conclusion)
 
 
-##Problem Statement
+## Problem Statement
     Build machine learning model to predict loyalty score for card id’s in test dataset. Training dataset contains loyalty score for each card id, historical transactions and new merchant transactions contain information about each card's transactions, and merchants.csv contains aggregate information for each merchant_id
 
-##Data 
+## Data 
     Data is obtained from [Kaggle](https://www.kaggle.com/c/elo-merchant-category-recommendation)
 
-##Data Wrangling
+## Data Wrangling
     Add methods followed for cleaning data
 
-##EDA
+## EDA
     Add Exploratory data analysis
 
-##Featuring Engineering
+## Featuring Engineering
     Add feature enginerring methods
 
-##Machine learning Model
+## Machine learning Model
     Add machine learning model
 
-##Conclusion
+## Conclusion
     Add conclusion
