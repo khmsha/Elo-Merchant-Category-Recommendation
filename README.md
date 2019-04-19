@@ -47,7 +47,7 @@ For datasets **historical_transactions.csv** and **new_merchant_transactions.cs
   - month difference - difference in numbers of months from current date to purchase date
 
 ## EDA
-    **Merchant transactions Data**
+**Merchant transactions Data**
 1. There is strong corelation numerical_1 and numerical_2 feature.
 2. There is also correlation between avg_sales and avg_purchases of 3, 6 an 12 month.
 3. Merchant category ID 705 has most sales with 9% sales
